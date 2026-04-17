@@ -1,4 +1,4 @@
-# 💰 Zid - Épargne Intelligente pour TAW Wallet
+# 💰 Zid - Épargne Intelligente pour Tao Wallet
 
 [![Flutter Version](https://img.shields.io/badge/Flutter-3.22+-blue.svg)](https://flutter.dev)
 [![Dart Version](https://img.shields.io/badge/Dart-3.4+-blue.svg)](https://dart.dev)
@@ -21,7 +21,7 @@ Ce projet a été développé dans le cadre du hackathon **"Hacker l'épargne"**
 
 ### Notre réponse : Zid
 
-**Zid** (زيد - "Ajoute" en arabe) est une solution d'épargne innovante intégrée à l'application **TAW Wallet** d'Enda. Elle aide les utilisateurs à adopter des habitudes d'épargne durables grâce à :
+**Zid** (زيد - "Ajoute" en arabe) est une solution d'épargne innovante intégrée à l'application **Tao Wallet** d'Enda. Elle aide les utilisateurs à adopter des habitudes d'épargne durables grâce à :
 - Des objectifs personnalisables
 - Trois modes d'épargne intelligents
 - Des conseils propulsés par l'IA
@@ -93,7 +93,7 @@ Une équipe multidisciplinaire réunie pour transformer l'épargne en une expér
 | 🔴 **Limite de dépenses** | Période personnalisable dépassée + recommandation IA |
 
 ### 📱 Gestion des Dépenses Simplifiée
-- Les dépenses effectuées via **TAW sont automatiquement déduites** de votre suivi.
+- Les dépenses effectuées via **Tao sont automatiquement déduites** de votre suivi.
 - Vous pouvez également **ajouter des dépenses en espèces manuellement** pour un suivi complet.
 - Catégorisation des dépenses (Courses, Transport, Loisirs, etc.)
 - Option de **scan de ticket** (OCR)
@@ -115,7 +115,7 @@ Une équipe multidisciplinaire réunie pour transformer l'épargne en une expér
 
 ---
 
-## 🎨 Charte Graphique (TAW Enda)
+## 🎨 Charte Graphique (Tao Enda)
 
 | Élément | Code couleur |
 | :--- | :--- |
@@ -133,7 +133,7 @@ Une équipe multidisciplinaire réunie pour transformer l'épargne en une expér
 ## 🙏 Remerciements
 
 - **Enda** pour l'organisation du hackathon "Hacker l'épargne"
-- **L'équipe TAW Wallet** pour la mise à disposition de l'API
+- **L'équipe Tao Wallet** pour la mise à disposition de l'API
 - **Toute l'équipe Joker Crew** pour son énergie et sa créativité
 
 ---
