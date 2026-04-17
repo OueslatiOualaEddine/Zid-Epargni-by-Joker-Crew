@@ -44,24 +44,15 @@ Une équipe multidisciplinaire réunie pour transformer l'épargne en une expér
 
 ## 🎬 Démonstrations Vidéo
 
-### 📺 Vidéo Commerciale (par Skander Klaî)
+| Vidéo Commerciale | Démo Application Mobile |
+| :---: | :---: |
+|
+ <video src="demo/joker-crew-x-enda-taw.mp" width="300" controls></video> | <video src="demo/zid-epargni-mobile-app-demo.mp4" width="300" controls></video> |
+| *Présentation marketing du projet Zid* | *Parcours utilisateur complet dans l'application* |
+| *Public cible, bénéfices et impact* | *De l'onboarding à la notification d'objectif atteint* |
+| **Réalisée par : Skander Klaî** | **Réalisée par : Équipe Dev** |
 
-*Présentation marketing du projet Zid - Public cible, bénéfices et impact*
-
-> 🎥 **Lien vers la vidéo commerciale** : [À insérer - YouTube ou Google Drive]
-
-[![Vidéo Commerciale Zid](https://img.shields.io/badge/Watch-Commercial%20Video-red?style=for-the-badge&logo=youtube)](https://votre-lien.com)
-
----
-
-### 📱 Démo Application Mobile
-
-*Parcours utilisateur complet dans l'application Zid - De l'onboarding à la notification d'objectif atteint*
-
-> 🎥 **Lien vers la vidéo de démo** : [À insérer - YouTube ou Google Drive]
-
-[![Démo Application Zid](https://img.shields.io/badge/Watch-App%20Demo-blue?style=for-the-badge&logo=flutter)](https://votre-lien.com)
-
+> 💡 **Note** : Si les vidéos ne s'affichent pas directement, vous pouvez les télécharger depuis le dossier [`/demo`](demo/) du dépôt.
 
 ---
 
