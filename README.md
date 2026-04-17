@@ -37,7 +37,7 @@ Une équipe multidisciplinaire réunie pour transformer l'épargne en une expér
 | :--- | :--- | :--- |
 | **Skander Klaî** | Marketing & E-commerce | 🎨 Concept initial<br>🎤 Pitch devant le jury<br>🎬 Réalisation de la vidéo commerciale |
 | **Maram Cherif** | Design UX/UI | 🎨 Concept initial<br>📊 Présentation visuelle<br>🖌️ Charte graphique & maquettes |
-| **Med Bachir Chammem** | Software Developer | 💡 Concept initial<br>📱 Développement mobile Flutter<br>🔧 Architecture technique |
+| **Med Bachir Chammem** | Software Developer | 💡 Concept initial<br>📱 Développement mobile Flutter |
 | **Ouala Eddine Oueslati** | Software Developer (Lead) | 💡 Concept initial<br>📱 Développement mobile Flutter<br>🤖 Intégration IA & notifications |
 
 ---
