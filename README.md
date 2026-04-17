@@ -46,7 +46,7 @@ Une équipe multidisciplinaire réunie pour transformer l'épargne en une expér
 
 | Vidéo Commerciale | Démo Application Mobile |
 | :---: | :---: |
-| <video src="https://github.com/user-attachments/assets/cd196589-cc8b-4e2e-9301-fe0a0149c919" width="300" controls></video> | <video src="https://github.com/OueslatiOualaEddine/Zid-Epargni-by-Joker-Crew/blob/main/demo/zid-epargni-mobile-app-demo.mp4" width="300" controls></video> |
+| <video src="https://github.com/user-attachments/assets/027c8e55-6a4d-40df-b9f5-9c811156c586" width="300" controls></video> |<video src="https://github.com/user-attachments/assets/cd196589-cc8b-4e2e-9301-fe0a0149c919" width="300" controls></video> | 
 | *Présentation marketing du projet Zid* | *Parcours utilisateur complet dans l'application* |
 | *Public cible, bénéfices et impact* | *De l'onboarding à la notification d'objectif atteint* |
 | **Réalisée par : Skander Klaî** | **Réalisée par : Équipe Dev** |
